@@ -1,5 +1,7 @@
 package com.visualnuts.exerciseone;
 
+import com.visualnuts.exerciseone.service.ExerciseService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
